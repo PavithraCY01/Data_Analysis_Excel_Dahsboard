@@ -69,4 +69,4 @@ This project demonstrates real-world analytical thinking using Excel and highlig
 
 ---
 
-## 📁 Repository Structure (suggested)
+
